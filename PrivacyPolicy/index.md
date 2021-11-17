@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Michał Runo built the Flood app as a Free app. This SERVICE is provided by Michał Runo at no cost and is intended for use as is.
+The Flood app was made by Michał Runo as a Free app. This SERVICE is provided by Michał Runo at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
